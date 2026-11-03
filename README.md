@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/9d806f45-25cc-435e-967c-1a02d8a99423" alt="Nexu Shield logo" width="140">
+<img src="https://github.com/user-attachments/assets/177ab44b-2af0-4d18-b73b-76d4307a6705" alt="Nexu Shield logo" width="140">
+
 
 
 # NexuShield AntiVirus
@@ -25,30 +26,32 @@
 **Virus Scan:** Scans the system drive and checks files against **1.1M+ known malware signatures** from MalwareBazaar, then lets you review and remove matches. 
 
 
-<img width="377" height="320" alt="Capture9" src="https://github.com/user-attachments/assets/08362c15-06f5-415d-acfd-9e0256c2da8b" />
+<img width="377" height="320" alt="Capture9" src="https://github.com/user-attachments/assets/9f25028f-4565-4413-89b5-5b46afa1c578" />
 
+<img width="382" height="311" alt="Capture5" src="https://github.com/user-attachments/assets/9335ae73-b3a1-4f5a-9d35-e1e1ab87c025" />
 
-<img width="382" height="311" alt="Capture5" src="https://github.com/user-attachments/assets/712d1536-4d84-4938-b7a4-8e65e4e35210" />
-
-
-<img width="384" height="345" alt="Capture" src="https://github.com/user-attachments/assets/1b9ef1a7-8ad1-40cd-9873-93c72292eb21" />
+<img width="384" height="345" alt="Capture" src="https://github.com/user-attachments/assets/6a9c615b-651c-442d-8b94-2cf855e9bb9a" />
 
 
 **Firewall:** View, create and delete inbound and outbound firewall rules. 
 
+<img width="382" height="275" alt="Capture3" src="https://github.com/user-attachments/assets/a39a973a-f514-4653-bd14-671ec03e6cb1" />
 
-<img width="378" height="277" alt="Capture6" src="https://github.com/user-attachments/assets/75cde537-ed2f-4f52-ba7b-abe1a5fee4d2" />
-<img width="382" height="275" alt="Capture3" src="https://github.com/user-attachments/assets/4a6af6cf-c4dd-4579-85ca-8862f4a70f64" />
-<img width="380" height="315" alt="Capture8" src="https://github.com/user-attachments/assets/52dabcf8-defa-4305-b849-e56c78bb909f" />
+<img width="378" height="277" alt="Capture6" src="https://github.com/user-attachments/assets/b069e051-8b43-41b7-8f6d-2b7c14438e48" />
+
+<img width="380" height="315" alt="Capture8" src="https://github.com/user-attachments/assets/bcac277c-f9d8-457f-8632-8c10dface941" />
+
+
 
 **USB Protection:** Blocks USB storage by default, with per-device enable/disable. 
 
-<img width="383" height="278" alt="Capture4" src="https://github.com/user-attachments/assets/48c0fdee-a13d-487b-b05b-851ad1179d60" />
+<img width="383" height="278" alt="Capture4" src="https://github.com/user-attachments/assets/455cfea6-78f2-4274-a6f4-64dc691fa446" />
 
 
 **Junk Cleaner:** Clears temporary files, caches and other system clutter. 
 
-<img width="380" height="276" alt="Capture2" src="https://github.com/user-attachments/assets/8b2a4b2a-9df8-4e4d-a592-4f4cbdcb6dbf" />
+<img width="380" height="276" alt="Capture2" src="https://github.com/user-attachments/assets/b4b5b7e2-81e8-4390-b393-a9c3c0b70b41" />
+
 
 
 
